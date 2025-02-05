@@ -5,16 +5,18 @@ public class JumpStatement {
 		
 		// break
 		for(int i=1;i<6;i++) {
-			if(i==2)
+			if(i==2) {
 				break;
+			}
 			System.out.println(i);
 		}
 		
 		
 		// continue
 		for(int i=1;i<=5;i++) {
-			if(i==3)
+			if(i==3) {
 				continue;
+			}
 			System.out.println(i);
 		}
 		

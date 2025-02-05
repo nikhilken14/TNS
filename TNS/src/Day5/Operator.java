@@ -2,7 +2,7 @@ package Day5;
 
 public class Operator {
 	public static void main(String[] args) {
-		int a=10;
+		int a=12;
 		int b=20;
 		
 		// increment -> a++

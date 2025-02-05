@@ -11,6 +11,5 @@ public class ControlStatement {
 		else {
 			System.out.println("false");
 		}
-		
 	}
 }
