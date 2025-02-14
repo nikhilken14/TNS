@@ -27,5 +27,4 @@ class Empl{
 	public String toString() {
 		return "Empl [Name : " + Name + " , Company : "+com+"]";
 	}
-	
 }
