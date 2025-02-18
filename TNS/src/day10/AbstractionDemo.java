@@ -4,6 +4,8 @@ public class AbstractionDemo {
 	public static void main(String[] args) {
 		Shape s = new Rectangle();
 		s.cal();
+		s.show();
+		
 		
 		Shape s1=new Square();
 		s1.cal();
