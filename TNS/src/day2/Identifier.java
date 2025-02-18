@@ -1,4 +1,4 @@
-package Day2;
+package day2;
 
 public class Identifier {
 	public static void main(String[] args) {

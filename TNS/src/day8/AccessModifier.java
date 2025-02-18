@@ -1,4 +1,4 @@
-package Day8;
+package day8;
 
 public class AccessModifier {
 	int valDefault=10;

@@ -1,4 +1,4 @@
-package Day8;
+package day8;
 
 public class Executor {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Day9;
+package day9;
 
 public class FinalDemo {
 	// final value can not be changed 
